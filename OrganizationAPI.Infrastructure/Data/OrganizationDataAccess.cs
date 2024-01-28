@@ -149,10 +149,10 @@ namespace OrganizationAPI.Infrastructure.Data
                             organization.OrganizationId = reader.GetString(reader.GetOrdinal("OrganizationId"));
                             organization.Name = reader.GetString(reader.GetOrdinal("Name"));
                             organization.Website = reader.GetString(reader.GetOrdinal("Website"));
-                            organization.Country = reader.GetString(reader.GetOrdinal("Name"));
+                            organization.Country = reader.GetString(reader.GetOrdinal("Country"));
                             organization.Description = reader.GetString(reader.GetOrdinal("Description"));
                             organization.Founded = reader.GetInt32(reader.GetOrdinal("Founded"));
-                            organization.Industry = reader.GetString(reader.GetOrdinal("Name"));
+                            organization.Industry = reader.GetString(reader.GetOrdinal("Industry"));
                             organization.NumberOfEmployees = reader.GetInt32(reader.GetOrdinal("NumberOfEmployees"));
 
                             organizations.Add(organization);
