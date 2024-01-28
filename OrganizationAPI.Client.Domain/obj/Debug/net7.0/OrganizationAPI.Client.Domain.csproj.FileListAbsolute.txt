@@ -1,0 +1,12 @@
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.csproj.AssemblyReference.cache
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.AssemblyInfoInputs.cache
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.AssemblyInfo.cs
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.csproj.CoreCompileInputs.cache
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\bin\Debug\net7.0\OrganizationAPI.Client.Domain.deps.json
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\bin\Debug\net7.0\OrganizationAPI.Client.Domain.dll
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\bin\Debug\net7.0\OrganizationAPI.Client.Domain.pdb
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.dll
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\refint\OrganizationAPI.Client.Domain.dll
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\OrganizationAPI.Client.Domain.pdb
+C:\API\src\University API Project\OrganizationAPI.Client.Domain\obj\Debug\net7.0\ref\OrganizationAPI.Client.Domain.dll

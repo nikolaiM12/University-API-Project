@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j0vH/J6xIxoa06nOWDHgCVwOc3Se6XSA04l/ySyhIvUkpW86HSVjbFk+v66VHTQmS38M+zMsfrMRfpBRkkayww==",
+  "success": true,
+  "projectFilePath": "C:\\API\\src\\University API Project\\OrganizationAPI.Client.Domain\\OrganizationAPI.Client.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

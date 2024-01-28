@@ -1,0 +1,17 @@
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.AssemblyInfo.cs
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Infrastructure.deps.json
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Infrastructure.dll
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Infrastructure.pdb
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.dll
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\refint\OrganizationAPI.Infrastructure.dll
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.pdb
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\ref\OrganizationAPI.Infrastructure.dll
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Domain.dll
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Domain.pdb
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\obj\Debug\net7.0\OrganizationAPI.Infrastructure.csproj.CopyComplete
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Client.Domain.dll
+C:\API\src\University API Project\OrganizationAPI.Infrastructure\bin\Debug\net7.0\OrganizationAPI.Client.Domain.pdb
