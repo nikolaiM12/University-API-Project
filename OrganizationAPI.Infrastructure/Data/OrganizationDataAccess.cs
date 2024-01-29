@@ -13,13 +13,9 @@ namespace OrganizationAPI.Infrastructure.Data
     public abstract class OrganizationDataAccess : IRepository<OrganizationDto, int>
     {
         private readonly IDbConnector connection;
-        private readonly ISectorRepository sectorRepository;
-        private readonly ICountryRepository countryRepository;
-        public OrganizationDataAccess(IDbConnector connection, ISectorRepository sectorRepository, ICountryRepository countryRepository)
+        public OrganizationDataAccess(IDbConnector connection)
         {
             this.connection = connection;
-            this.sectorRepository = sectorRepository;
-            this.countryRepository = countryRepository;
         }
 
         public async Task Add(List<OrganizationDto> organizations)

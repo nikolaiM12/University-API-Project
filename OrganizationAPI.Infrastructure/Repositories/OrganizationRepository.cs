@@ -19,7 +19,7 @@ namespace OrganizationAPI.Infrastructure.Repository
 {
     public class OrganizationRepository : OrganizationDataAccess, IOrganizationRepository
     {
-        public OrganizationRepository(IDbConnector connection, ISectorRepository sectorRepository, ICountryRepository countryRepository) : base(connection, sectorRepository, countryRepository)
+        public OrganizationRepository(IDbConnector connection) : base(connection)
         {
         }
     }
